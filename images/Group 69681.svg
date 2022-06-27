@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="469" height="677" viewBox="0 0 469 677">
+  <defs>
+    <filter id="Rectangle_17999" x="35.5" y="0" width="389" height="677" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9.5" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17723" x="0" y="138.5" width="469" height="342" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21" x="30" y="318.5" width="410" height="150" filterUnits="userSpaceOnUse">
+      <feOffset dy="23" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-3"/>
+      <feFlood flood-opacity="0.012"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Rectangle_19176" data-name="Rectangle 19176" d="M4,0H32a0,0,0,0,1,0,0V69a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(704 3563)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_69681" data-name="Group 69681" transform="translate(-336 -3031.5)">
+    <g transform="matrix(1, 0, 0, 1, 336, 3031.5)" filter="url(#Rectangle_17999)">
+      <rect id="Rectangle_17999-2" data-name="Rectangle 17999" width="332" height="620" rx="20" transform="translate(68 16.5)" fill="#fcfcfc"/>
+    </g>
+    <path id="Rectangle_2096" data-name="Rectangle 2096" d="M20,0H312a20,20,0,0,1,20,20V166a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(405 3048)" fill="#fff"/>
+    <rect id="Rectangle" width="300" height="39.015" rx="7.5" transform="translate(421 3146.985)" fill="#f9f9f9" stroke="rgba(214,214,214,0.24)" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Group_69672" data-name="Group 69672" transform="translate(1 -12.515)">
+      <g id="Group_69671" data-name="Group 69671" transform="translate(0 -0.172)">
+        <path id="Shape" d="M7.052,14.1A7.052,7.052,0,1,1,14.1,7.052,7.06,7.06,0,0,1,7.052,14.1Zm0-12.538a5.485,5.485,0,1,0,5.486,5.486A5.491,5.491,0,0,0,7.052,1.566Z" transform="translate(445 3171.172)" fill="#333"/>
+        <path id="Path" d="M.229.23a.783.783,0,0,1,1.108,0L4.746,3.638A.783.783,0,1,1,3.638,4.746L.229,1.338A.783.783,0,0,1,.229.23Z" transform="translate(455.696 3181.867)" fill="#333"/>
+      </g>
+      <text id="Mask" transform="translate(477 3184)" fill="#949494" font-size="14" font-family="DMSans-Medium, DM Sans" font-weight="500"><tspan x="0" y="0">Search Garage</tspan></text>
+    </g>
+    <text id="MY_KARAJ" data-name="MY KARAJ" transform="translate(421 3105)" fill="#ff8308" font-size="25" font-family="LucidaSansUnicode, Lucida Sans Unicode"><tspan x="0" y="0">MY </tspan><tspan y="0" fill="#000">KARAJ</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 336, 3031.5)" filter="url(#Rectangle_17723)">
+      <g id="Rectangle_17723-2" data-name="Rectangle 17723" transform="translate(51 187.5)" fill="#fff" stroke="#ececec" stroke-width="1">
+        <rect width="367" height="240" stroke="none"/>
+        <rect x="0.5" y="0.5" width="366" height="239" fill="none"/>
+      </g>
+    </g>
+    <text id="Featured_restaurants" data-name="Featured restaurants" transform="translate(645 3275)" fill="#111719" font-size="20" font-family="DMSans-Bold, DM Sans" font-weight="700"><tspan x="-146.9" y="0">Hi, Marco Alves</tspan></text>
+    <text id="Get_offers_from_the_garages_for_your_car_services" data-name="Get offers from the garages for your car services" transform="translate(462 3300)" fill="#1e1e1e" font-size="15" font-family="DMSans-Regular, DM Sans"><tspan x="2.132" y="15">Get offers from the garages for </tspan><tspan x="49.967" y="35">your car services</tspan></text>
+    <g id="Group_69679" data-name="Group 69679" transform="translate(1 20)">
+      <g id="Group_66359" data-name="Group 66359" transform="translate(419.082 3361.791)">
+        <g transform="matrix(1, 0, 0, 1, -84.08, -350.29)" filter="url(#Rectangle_21)">
+          <g id="Rectangle_21-2" data-name="Rectangle 21" transform="translate(84 349.5)" fill="none" stroke="#ff8308" stroke-width="1">
+            <rect width="302" height="42" rx="5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="301" height="41" rx="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <text id="Lorem_ipsum_dolor_si" data-name="Lorem ipsum dolor si" transform="translate(570 3387)" fill="#ff8308" font-size="14" font-family="DMSans-Medium, DM Sans" font-weight="500"><tspan x="-67.9" y="0">Request a Quotation</tspan></text>
+    </g>
+    <rect id="Rectangle_17706" data-name="Rectangle 17706" width="332" height="1" transform="translate(404 3213)" fill="#dbdbdb"/>
+    <text id="Featured_restaurants-2" data-name="Featured restaurants" transform="translate(421 3495)" fill="#111719" font-size="15" font-family="DMSans-Bold, DM Sans" font-weight="700"><tspan x="0" y="0">Location</tspan></text>
+    <rect id="Rectangle_2097" data-name="Rectangle 2097" width="86" height="69" rx="4" transform="translate(421 3563)" fill="#fff"/>
+    <text id="Al_Quaz" data-name="Al Quaz" transform="translate(443 3602)" fill="#949494" font-size="12" font-family="DMSans-Regular, DM Sans"><tspan x="0" y="0">Al Quaz</tspan></text>
+    <g id="Group_69676" data-name="Group 69676" transform="translate(513.946 3563)">
+      <rect id="Rectangle_19173" data-name="Rectangle 19173" width="87" height="69" rx="4" transform="translate(0.054)" fill="#fff"/>
+      <text id="Industrial_Area" data-name="Industrial
+Area" transform="translate(44.054 32)" fill="#949494" font-size="12" font-family="DMSans-Regular, DM Sans"><tspan x="-25.404" y="0">Industrial</tspan><tspan x="-12.708" y="13">Area</tspan></text>
+    </g>
+    <g id="Group_69677" data-name="Group 69677" transform="translate(607.95 3563)">
+      <rect id="Rectangle_19174" data-name="Rectangle 19174" width="86" height="69" rx="4" transform="translate(0.05)" fill="#fff"/>
+      <text id="Street" transform="translate(43.05 39)" fill="#949494" font-size="12" font-family="DMSans-Regular, DM Sans"><tspan x="-16.902" y="0">Street</tspan></text>
+    </g>
+    <rect id="Rectangle_2095" data-name="Rectangle 2095" width="300" height="41" rx="5" transform="translate(421 3510)" fill="#fff"/>
+    <g id="Group_69674" data-name="Group 69674" transform="translate(-0.113 30.5)">
+      <text id="Please_Select_your_Location" data-name="Please Select your Location" transform="translate(436.113 3504.5)" fill="#949494" font-size="11" font-family="DMSans-Regular, DM Sans"><tspan x="0" y="0">Please Select your Location</tspan></text>
+      <path id="Icon_material-arrow-drop-down" data-name="Icon material-arrow-drop-down" d="M10.5,15l5.773,5.773L22.045,15Z" transform="translate(683.841 3482.5)" fill="#1e1e1e"/>
+    </g>
+    <g id="Mask_Group_353" data-name="Mask Group 353" clip-path="url(#clip-path)">
+      <g id="Group_69680" data-name="Group 69680">
+        <rect id="Rectangle_19175" data-name="Rectangle 19175" width="86" height="69" rx="4" transform="translate(704 3563)" fill="#fff"/>
+        <text id="Sharjah_Industrial" data-name="Sharjah
+Industrial" transform="translate(747 3595)" fill="#949494" font-size="12" font-family="DMSans-Regular, DM Sans"><tspan x="-20.454" y="0">Sharjah</tspan><tspan x="-25.404" y="13">Industrial</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
